@@ -1,0 +1,15 @@
+DWARF,Racial Charisma,CHA,-2,0
+DWARF,Racial Constitution,CON,2,0
+DWARF,Racial Wisdom,WIS,2,0
+ELF,Racial Constitution,CON,-2,0
+ELF,Racial Dexterity,DEX,2,0
+ELF,Racial Intelligence,INT,2,0
+GNOME,Racial Charisma,CHA,2,0
+GNOME,Racial Constitution,CON,2,0
+GNOME,Racial Strength,STR,-2,0
+HALFELF,Racial Bonus,UNKNOWN,2,0
+HALFLING,Racial Charisma,CHA,2,0
+HALFLING,Racial Dexterity,DEX,2,0
+HALFLING,Racial Strength,STR,-2,0
+HALFORC,Racial Bonus,UNKNOWN,2,0
+HUMAN,Racial Bonus,UNKNOWN,2,0

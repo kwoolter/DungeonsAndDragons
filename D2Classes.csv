@@ -1,0 +1,12 @@
+Barbarian,12,1,1,3,6
+Bard,8,2,1,3,6
+Cleric,8,2,1,4,6
+Druid,8,2,1,2,6
+Fighter,10,1,1,5,6
+Monk,8,2,1,1,6
+Paladin,10,1,1,5,6
+Ranger,10,1,1,5,6
+Rogue,8,2,1,4,6
+Sorcerer,6,1,0.5,2,6
+Thief,10,1,0.5,2,8
+Wizard,6,1,0.5,2,6

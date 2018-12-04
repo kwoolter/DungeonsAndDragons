@@ -1,0 +1,29 @@
+1,19,WEST,through a gate
+2,16,SOUTH,through a door
+15,5,EAST,through a door
+5,6,SOUTH,up a step
+3,8,WEST,through a door
+8,10,WEST,through an archway
+10,12,WEST,through some sliding doors
+12,13,WEST,up some steps
+8,9,NORTH,across the floor
+10,11,NORTH,across the floor
+3,18,EAST,across the floor
+15,7,SOUTH,through a door
+13,14,NORTH,down a slope
+16,3,SOUTH,across the floor
+16,17,EAST,through a door
+18,15,EAST,across the floor
+19,2,WEST,across the driveway
+3,23,UP,some stairs
+23,25,WEST,along the landing
+23,22,NORTH,through a door
+15,4,NORTH,through a door
+4,17,WEST,through a door
+25,24,WEST,through a door
+25,29,SOUTH,through a door
+23,26,EAST,along the landing
+26,30,SOUTH,through a door
+26,32,EAST,along the landing
+32,27,EAST,through a door
+32,28,SOUTH,through a door
